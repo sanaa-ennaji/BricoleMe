@@ -1,4 +1,4 @@
-# Brif14 : plateforme en ligne dédiée aux services de bricolage 
+# Brif14 : projet en equipe 4
 
 ## BricoleMe
 
