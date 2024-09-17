@@ -1,6 +1,6 @@
 # Brif14 : projet en equipe 4
 
-## BricoleMe
+## Context
 
 La société **BricoleMe** aspire à développer une plateforme en ligne dédiée aux services de bricolage, établissant une connexion entre les clients ayant des besoins de réparation ou d'entretien et divers artisans qualifiés tels que plombiers, électriciens, jardiniers, etc. Vous êtes chargé(e) de développer cette plateforme en utilisant le framework Laravel.
 
@@ -50,7 +50,7 @@ La société **BricoleMe** aspire à développer une plateforme en ligne dédié
 
 - Les clients peuvent signer le devis électroniquement, et l'artisan concerné recevra une copie par email.
 
-## Bonus
+## Bonus 
 
 - **Chat en Temps Réel :** Une fonction de chat en temps réel via WebSockets permet une communication instantanée entre le client et l'artisan.
 - **Localisation Réelle :** Les clients peuvent envoyer leur localisation réelle aux artisans pour faciliter l'intervention.
